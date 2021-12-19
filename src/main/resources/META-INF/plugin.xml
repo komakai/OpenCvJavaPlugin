@@ -1,0 +1,30 @@
+
+<idea-plugin>
+    <id>org.opencv.intellij.plugin</id>
+    <name>OpenCvJavaPlugin</name>
+    <vendor url="https://github.com/komakai/opencv">OpenCV</vendor>
+
+    <description><![CDATA[
+      This unofficial plugin implements OpenCv Mat object visualizations for IntelliJ and Android Studio.
+        <br/><br/>
+      See <b><a href="https://github.com/komakai/OpenCvJavaPlugin">github.com/komakai/OpenCvJavaPlugin</a></b> for more information.
+
+    ]]></description>
+
+    <change-notes><![CDATA[
+        <ul>
+            <li>Initial release</li>
+        </ul>
+        ]]>
+    </change-notes>
+
+    <depends>com.intellij.modules.java</depends>
+    <depends>com.intellij.properties</depends>
+    <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.platform.images</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <debugger.nodeRenderer implementation="org.opencv.intellij.plugin.MatObjectRenderer"/>
+    </extensions>
+
+</idea-plugin>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        id="svg6745"
+        width="128.0pt"
+        height="128.0pt"
+        viewBox="0 0 128 128"
+        version="1.1">
+  <rect
+          id="rect10"
+          fill="white"
+          height="100%"
+          width="100%" />
+  <defs
+          id="defs6733">
+    <path
+            id="cv_element"
+            d="m -15.059544,26.083896 a 30.1190872,30.1190872 120 1 1 30.119088,0 L 5.991132,10.3769448 a 11.98226368,11.98226368 120 1 0 -11.98226368,0 z" />
+  </defs>
+  <use
+          transform="translate(-233.81463,-103.99756)"
+          height="100%"
+          width="100%"
+          style="fill:#ff0101"
+          id="red"
+          y="140"
+          x="298"
+          xlink:href="#cv_element" />
+  <use
+          height="100%"
+          width="100%"
+          style="fill:#0101ff"
+          transform="rotate(180,276.62614,254.27593)"
+          id="blue"
+          y="415"
+          x="457"
+          xlink:href="#cv_element" />
+  <use
+          height="100%"
+          width="100%"
+          style="fill:#01ff01"
+          transform="rotate(-120,-5.7348487,285.99599)"
+          id="green"
+          y="415"
+          x="142"
+          xlink:href="#cv_element" />
+</svg>

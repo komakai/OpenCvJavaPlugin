@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   viewBox="0 0 32 32"
+   height="32.0pt"
+   width="32.0pt"
+   id="svg6745">
+  <defs
+     id="defs6733">
+    <path
+       d="m -3.764886,6.520974 a 7.5297718,7.5297718 120 1 1  7.529772,0 L 1.497783,2.5942362 a 2.99556592,2.99556592 120 1 0 -2.99556592,0 z"
+       id="cv_element" />
+  </defs>
+  <use
+     xlink:href="#cv_element"
+     x="298"
+     y="140"
+     id="red"
+     style="fill:#ff0101"
+     width="100%"
+     height="100%"
+     transform="translate(-282.01334,-131.52106)" />
+  <use
+     xlink:href="#cv_element"
+     x="457"
+     y="415"
+     id="blue"
+     transform="rotate(180,240.47831,219.17193)"
+     style="fill:#0101ff"
+     width="100%"
+     height="100%" />
+  <use
+     xlink:href="#cv_element"
+     x="142"
+     y="415"
+     id="green"
+     transform="rotate(-120,-38.05303,257.84958)"
+     style="fill:#01ff01"
+     width="100%"
+     height="100%" />
+</svg>
